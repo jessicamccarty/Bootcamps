@@ -1,0 +1,15 @@
+D:\Coding\Bootcamps\CSharpCalebCurry\bin\Debug\net8.0\CSharpCalebCurry.exe
+D:\Coding\Bootcamps\CSharpCalebCurry\bin\Debug\net8.0\CSharpCalebCurry.deps.json
+D:\Coding\Bootcamps\CSharpCalebCurry\bin\Debug\net8.0\CSharpCalebCurry.runtimeconfig.json
+D:\Coding\Bootcamps\CSharpCalebCurry\bin\Debug\net8.0\CSharpCalebCurry.dll
+D:\Coding\Bootcamps\CSharpCalebCurry\bin\Debug\net8.0\CSharpCalebCurry.pdb
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.AssemblyInfoInputs.cache
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.AssemblyInfo.cs
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.csproj.CoreCompileInputs.cache
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.sourcelink.json
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.dll
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\refint\CSharpCalebCurry.dll
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.pdb
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\CSharpCalebCurry.genruntimeconfig.cache
+D:\Coding\Bootcamps\CSharpCalebCurry\obj\Debug\net8.0\ref\CSharpCalebCurry.dll
