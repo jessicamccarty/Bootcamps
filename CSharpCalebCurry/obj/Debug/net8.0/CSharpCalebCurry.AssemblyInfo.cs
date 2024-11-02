@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCalebCurry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00bb4413ebbf9900819677dd71f8398af834017")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5b1cf8405f4bca16b63c7134d1be316dfa3e9a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpCalebCurry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpCalebCurry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
